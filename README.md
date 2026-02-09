@@ -11,8 +11,9 @@ Gems（ジェムズ）は、Google Gemini を自分好みにカスタマイズ�
 
 ### 1. Gemsを使ってみる
  Gems を実際に使い、どのようなことができるのかを体験します。
-[総合ふりかえりくん]( https://docs.google.com/forms/d/e/1FAIpQLSeVogmDPOsFNSPs5qWQeq86PsujA8iN1Go7t09itbObsKIelg/viewform)
-[調べ学習サポートくん](https://gemini.google.com/gem/72ba449cbda5?usp=sharing)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeVogmDPOsFNSPs5qWQeq86PsujA8iN1Go7t09itbObsKIelg/viewform" target="_blank" rel="noopener noreferrer">総合ふりかえりくん</a>
+
+<a href="https://gemini.google.com/gem/72ba449cbda5?usp=sharing" target="_blank" rel="noopener noreferrer">調べ学習サポートくん</a>
 
 ### 2. Gemsを作ってみる（写経）
 まずは用意されたプロンプト（指示文）を真似て、最小構成の Gems を作成してみます。
@@ -46,10 +47,10 @@ Gems（AIプロンプト）の改善に最適な学習フレームワークで�
 | **S** | **Success** | **成功**。期待通りの回答が得られた、または新しい使い方の発見へ。 |
 
 ### 5. Gemを共有する
-[作ったGemをPadletに貼り付けてください](https://padlet.com/kumaya77/gem-ivxne4nhp7kly7lu)
+<a href="https://padlet.com/kumaya77/gem-ivxne4nhp7kly7lu" target="_blank" rel="noopener noreferrer">作ったGemをPadletに貼り付けてください</a>
 
 ### 6.感想をお願いします
-[スーパー記録くん](https://script.google.com/a/macros/gtrainerdemo.mikire.tokyo/s/AKfycbxeL491-v1R8KTfzRZfMdBfC6OI8x9KZ1T-vCcMWpzwe5l1d3JhQzBYuxm-XvX4kvLUYw/exec?authuser=0)
+<a href="https://script.google.com/a/macros/gtrainerdemo.mikire.tokyo/s/AKfycbxeL491-v1R8KTfzRZfMdBfC6OI8x9KZ1T-vCcMWpzwe5l1d3JhQzBYuxm-XvX4kvLUYw/exec?authuser=0" target="_blank" rel="noopener noreferrer">スーパー記録くん</a>
 
 
 ### 7.資料
