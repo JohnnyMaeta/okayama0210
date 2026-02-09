@@ -53,4 +53,13 @@ Gems（AIプロンプト）の改善に最適な学習フレームワークで�
 <a href="https://script.google.com/a/macros/gtrainerdemo.mikire.tokyo/s/AKfycbxeL491-v1R8KTfzRZfMdBfC6OI8x9KZ1T-vCcMWpzwe5l1d3JhQzBYuxm-XvX4kvLUYw/exec?authuser=0" target="_blank" rel="noopener noreferrer">スーパー記録くん</a>
 
 
-### 7.資料
+```markdown
+```markdown
+### 7. 資料
+- <a href="https://youtu.be/LBD45TtvOwc" target="_blank" rel="noopener noreferrer">【Gemini】Gemsの作り方・活用法を徹底解説！自分専用のAIアシスタントを作ろう</a>
+- <a href="https://youtu.be/WpcbCIfNeIs" target="_blank" rel="noopener noreferrer">【Gemini】Gemsのプロンプト作成のコツ！構造化プロンプトで精度を上げる</a>
+- <a href="https://youtu.be/Acsl77LCvQQ" target="_blank" rel="noopener noreferrer">【Gemini】Gemsの共有方法と活用事例！チームでAIを使いこなす</a>
+- <a href="https://youtu.be/XL2QHiyTUFo" target="_blank" rel="noopener noreferrer">【Gemini】Gems'の最新アップデート情報！新機能の使い方を解説</a>
+```
+
+
