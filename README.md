@@ -11,13 +11,12 @@ Gems（ジェムズ）は、Google Gemini を自分好みにカスタマイズ�
 
 ### 1. Gemsを使ってみる
  Gems を実際に使い、どのようなことができるのかを体験します。
+ 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVogmDPOsFNSPs5qWQeq86PsujA8iN1Go7t09itbObsKIelg/viewform" target="_blank" rel="noopener noreferrer">総合ふりかえりくん</a>
 
 <a href="https://gemini.google.com/gem/72ba449cbda5?usp=sharing" target="_blank" rel="noopener noreferrer">調べ学習サポートくん</a>
 
-```markdown
 <a href="https://gemini.google.com/gem/1rLfXmlrFfBhAVgGRqIlyCkJ1dShNWSsj?usp=sharing" target="_blank" rel="noopener noreferrer">万能アシスタントくん</a>
-```
 
 ### 2. Gemsを作ってみる（写経）
 まずは用意されたプロンプト（指示文）を真似て、最小構成の Gems を作成してみます。
