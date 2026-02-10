@@ -15,6 +15,10 @@ Gems（ジェムズ）は、Google Gemini を自分好みにカスタマイズ�
 
 <a href="https://gemini.google.com/gem/72ba449cbda5?usp=sharing" target="_blank" rel="noopener noreferrer">調べ学習サポートくん</a>
 
+```markdown
+<a href="https://gemini.google.com/gem/1rLfXmlrFfBhAVgGRqIlyCkJ1dShNWSsj?usp=sharing" target="_blank" rel="noopener noreferrer">万能アシスタントくん</a>
+```
+
 ### 2. Gemsを作ってみる（写経）
 まずは用意されたプロンプト（指示文）を真似て、最小構成の Gems を作成してみます。
 
@@ -37,14 +41,14 @@ Gems（ジェムズ）は、Google Gemini を自分好みにカスタマイズ�
 #### 🔄 TEFCASサイクル
 Gems（AIプロンプト）の改善に最適な学習フレームワークです。
 
-| ステップ | 項目 | 内容 |
-| :--- | :--- | :--- |
+| ステップ  | 項目            | 内容                                 |
+| :---- | :------------ | :--------------------------------- |
 | **T** | **Trial All** | **全て試す**。一つの指示に固執せず、様々な言い回しや条件を試す。 |
-| **E** | **Event** | **出来事**。その指示の結果、AIがどのような回答をしたか。 |
-| **F** | **Feedback** | **フィードバック**。回答に対する違和感や、改善すべき点の気づき。 |
-| **C** | **Check** | **確認**。何が意図通りで、何がズレたのかを分析する。 |
-| **A** | **Adjust** | **調整**。Checkに基づき、プロンプトの指示を修正・追加する。 |
-| **S** | **Success** | **成功**。期待通りの回答が得られた、または新しい使い方の発見へ。 |
+| **E** | **Event**     | **出来事**。その指示の結果、AIがどのような回答をしたか。    |
+| **F** | **Feedback**  | **フィードバック**。回答に対する違和感や、改善すべき点の気づき。 |
+| **C** | **Check**     | **確認**。何が意図通りで、何がズレたのかを分析する。       |
+| **A** | **Adjust**    | **調整**。Checkに基づき、プロンプトの指示を修正・追加する。 |
+| **S** | **Success**   | **成功**。期待通りの回答が得られた、または新しい使い方の発見へ。 |
 
 ### 5. Gemを共有する
 <a href="https://padlet.com/kumaya77/gem-ivxne4nhp7kly7lu" target="_blank" rel="noopener noreferrer">作ったGemをPadletに貼り付けてください</a>
